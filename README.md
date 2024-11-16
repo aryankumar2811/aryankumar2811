@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Aryan Kumar
 
+📌 **Note:**
+Some repositories have been migrated from my alternative account, which may affect the accuracy of commit histories. I'm currently working on it!
+
 🎓 **Education:**
 - **University of Alberta**, Edmonton, AB
   - *B.Sc in Computer Science*, Minor in Statistics
@@ -43,9 +46,6 @@
 📢 **Activities and Leadership:**
 - **Director of Logistics** at *TeamUP Science*, Edmonton, AB
   - Coordinated the Interdisciplinary Science Competition (ISC) and successfully managed event logistics for over 150 attendees.
-
-📌 **Note:**
-Some repositories have been migrated from another account, which may affect the accuracy of commit histories.
 
 📫 **Contact:**
 - **Email:** aryankumarjobs@gmail.com
