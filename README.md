@@ -10,19 +10,6 @@ Some repositories have been migrated from my alternative account, which may affe
   - *Awards:* International Student Scholarship (5000 CAD)
   - *Relevant Coursework:* Data Structures & Algorithms, Objects & Design, Object-Oriented Programming
 
-💼 **Experience:**
-- **Software Engineering Fellow** at *Headstarter AI* (Remote)
-  - *July 2024 – September 2024*
-  - Led the development of "Clout Craft," an AI-powered LinkedIn assistant, scaling to 200+ users and increasing engagement by 15%.
-  - Utilized React.js, Next.js, Firebase, and Vercel to deploy five AI projects, adhering to agile methodologies with weekly sprints and CI/CD practices.
-  - Collaborated on an interactive support agent, integrating a custom Retrieval-Augmented Generation (RAG) pipeline using OpenAI and Pinecone, enhancing user satisfaction.
-
-- **Research Assistant** at *University of Alberta*, Edmonton, AB
-  - *February 2024 – May 2024*
-  - Aggregated and cleaned accident report data for machine learning models.
-  - Developed a report generation system using analyzed results and the ChatGPT API, contributing to improved safety standards in various factories.
-  - Led data research discussions, presenting complex insights to diverse stakeholders, enhancing team alignment and project outcomes.
-
 🛠️ **Skills & Certifications:**
 - **Languages:** Python, JavaScript, TypeScript, C, Java, SQL
 - **Frameworks & Tools:** React.js, Next.js, Firebase, Android Studio, Git, AWS, Pinecone, LangChain
