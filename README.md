@@ -37,5 +37,3 @@ Some repositories have been migrated from my alternative account, which may affe
 📫 **Contact:**
 - **Email:** aryankumarjobs@gmail.com
 - **LinkedIn:** [linkedin.com/in/aryankumardev](https://linkedin.com/in/aryankumardev)
-- **GitHub:** [github.com/aryankumar2828](https://github.com/aryankumar2828)
-
