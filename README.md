@@ -3,7 +3,9 @@
 Senior at the University of Alberta with a passion for building intelligent and scalable software solutions. Experienced in Machine Learning, Full-Stack Development, and Cloud Computing, with hands-on internships in academia and industry.
 
 🔹 Machine Learning & AI: Implemented deep learning models for industrial applications and research.
+
 🔹 Full-Stack Engineering: Built scalable web and mobile apps using React, Next.js, Firebase, and Laravel.
+
 🔹 Projects & Innovation: Developed AI-powered platforms like CloutCraft and Alra AI.
 
 
