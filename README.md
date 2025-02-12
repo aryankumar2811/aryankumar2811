@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aryan Kumar
+# 👋 Hi, I'm Aryan
 
 Senior at the University of Alberta with a passion for building intelligent and scalable software solutions. Experienced in Machine Learning, Full-Stack Development, and Cloud Computing, with hands-on internships in academia and industry.
 
@@ -11,8 +11,6 @@ Senior at the University of Alberta with a passion for building intelligent and 
 - **University of Alberta**, Edmonton, AB
   - *B.Sc in Computer Science*, Minor in Statistics
   - *Expected Graduation:* May 2026
-  - *Awards:* International Student Scholarship
-  - *Relevant Coursework:* Data Structures & Algorithms, Objects & Design, Object-Oriented Programming
 
 🚀 **Projects:**
 - **[CloutCraft – Your Personal AI LinkedIn Assistant](https://cloutcraft.me)**
