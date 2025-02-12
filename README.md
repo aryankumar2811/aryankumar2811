@@ -1,7 +1,11 @@
 # 👋 Hi, I'm Aryan Kumar
 
-📌 **Note:**
-Some repositories have been migrated from my alternative account, which may affect the accuracy of commit histories. I'm currently working on it!
+Senior at the University of Alberta with a passion for building intelligent and scalable software solutions. Experienced in Machine Learning, Full-Stack Development, and Cloud Computing, with hands-on internships in academia and industry.
+
+🔹 Machine Learning & AI: Implemented deep learning models for industrial applications and research.
+🔹 Full-Stack Engineering: Built scalable web and mobile apps using React, Next.js, Firebase, and Laravel.
+🔹 Projects & Innovation: Developed AI-powered platforms like CloutCraft and Alra AI.
+
 
 🎓 **Education:**
 - **University of Alberta**, Edmonton, AB
@@ -25,3 +29,7 @@ Some repositories have been migrated from my alternative account, which may affe
   - *December 2023*
   - Developed a Java and XML-based application for property and inventory management, catering to home and business owners.
   - Implemented the application using Android Studio, integrating Firebase for efficient real-time data synchronization. Delivered a dynamic user interface that enhanced usability, significantly boosting user satisfaction by ensuring an engaging, seamless, and responsive user experience.
+
+
+📌 **Note:**
+Some repositories have been migrated from my alternative account, which may affect the accuracy of commit histories. I'm currently working on it!
