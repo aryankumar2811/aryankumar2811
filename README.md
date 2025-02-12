@@ -7,7 +7,7 @@ Some repositories have been migrated from my alternative account, which may affe
 - **University of Alberta**, Edmonton, AB
   - *B.Sc in Computer Science*, Minor in Statistics
   - *Expected Graduation:* May 2026
-  - *Awards:* International Student Scholarship (5000 CAD)
+  - *Awards:* International Student Scholarship
   - *Relevant Coursework:* Data Structures & Algorithms, Objects & Design, Object-Oriented Programming
 
 🚀 **Projects:**
