@@ -6,13 +6,9 @@ Some repositories have been migrated from my alternative account, which may affe
 🎓 **Education:**
 - **University of Alberta**, Edmonton, AB
   - *B.Sc in Computer Science*, Minor in Statistics
-  - *Expected Graduation:* May 2025
+  - *Expected Graduation:* May 2026
   - *Awards:* International Student Scholarship (5000 CAD)
   - *Relevant Coursework:* Data Structures & Algorithms, Objects & Design, Object-Oriented Programming
-
-🛠️ **Skills & Certifications:**
-- **Languages:** Python, JavaScript, TypeScript, C, Java, SQL
-- **Frameworks & Tools:** React.js, Next.js, Firebase, Android Studio, Git, AWS, Pinecone, LangChain
 
 🚀 **Projects:**
 - **[CloutCraft – Your Personal AI LinkedIn Assistant](https://cloutcraft.me)**
@@ -29,11 +25,3 @@ Some repositories have been migrated from my alternative account, which may affe
   - *December 2023*
   - Developed a Java and XML-based application for property and inventory management, catering to home and business owners.
   - Implemented the application using Android Studio, integrating Firebase for efficient real-time data synchronization. Delivered a dynamic user interface that enhanced usability, significantly boosting user satisfaction by ensuring an engaging, seamless, and responsive user experience.
-
-📢 **Activities and Leadership:**
-- **Director of Logistics** at *TeamUP Science*, Edmonton, AB
-  - Coordinated the Interdisciplinary Science Competition (ISC) and successfully managed event logistics for over 150 attendees.
-
-📫 **Contact:**
-- **Email:** aryankumarjobs@gmail.com
-- **LinkedIn:** [linkedin.com/in/aryankumardev](https://linkedin.com/in/aryankumardev)
